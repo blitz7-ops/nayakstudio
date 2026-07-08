@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nayakstudio.com/sitemap.xml
